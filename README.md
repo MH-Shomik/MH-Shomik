@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mh-shomik" alt="mh-shomik" /></a> </p>
 
-- 🔭 I’m currently working on [OmniSoft LTD.](omnisift.ltd)
+- 🔭 I’m currently working on [OmniSoft LTD.](https://github.com/OmniSoft-Limited)
 
 - 🌱 I’m currently learning **Node.Js , React.Js**
 
