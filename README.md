@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mh70357@gmail.com**
 
-- 📄 Know about my experiences [LinedIN](https://www.linkedin.com/in/mehedi-hassan-shomik-08a3a7367/)
+- 📄 Know about my experiences [LinkedIN](https://www.linkedin.com/in/mehedi-hassan-shomik-08a3a7367/)
 
 - ⚡ Fun fact **I can adapt to anything,nothing is impossible.**
 
