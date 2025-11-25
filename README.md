@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on [OmniSoft LTD.](https://github.com/OmniSoft-Limited)
 
-- 🌱 I’m currently learning **Node.Js , React.Js**
+- 🌱 I’m currently learning [InnerStrength](https://innerstrength.site)
+
+- 🌱 Recently launched project **Node.Js , React.Js**
 
 - 👯 I’m looking to collaborate on **AI, LLM, ML Projects**
 
