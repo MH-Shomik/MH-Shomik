@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Node.Js , React.Js**
 
-- 👯 I’m looking to collaborate on **AI-Powered Resume Analyzer**
+- 👯 I’m looking to collaborate on **AI, LLM, ML Projects**
 
-- 👨‍💻 All of my projects are available at [webgeek.free.nf](webgeek.free.nf)
+- 👨‍💻 All of my projects are available at [LinkedIN](https://www.linkedin.com/in/mehedi-hassan-shomik-08a3a7367/)
 
 - 💬 Ask me about **React , Next**
 
 - 📫 How to reach me **mh70357@gmail.com**
 
-- 📄 Know about my experiences [webgeek.free.nf](webgeek.free.nf)
+- 📄 Know about my experiences [LinedIN](https://www.linkedin.com/in/mehedi-hassan-shomik-08a3a7367/)
 
 - ⚡ Fun fact **I can adapt to anything,nothing is impossible.**
 
