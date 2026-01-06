@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Node.Js , React.Js** 
 
-- 🌱 Recently launched project  [InnerStrength](https://innerstrength.site)
+ - 🧑‍💻 My Portfolio link   [MH-Shomik](https://mh-shomiik.netlify.app)
+
+- 🔻 Recently launched project  [InnerStrength](https://innerstrength.site)
 
 - 👯 I’m looking to collaborate on **AI, LLM, ML Projects**
 
